@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaelyndenise
-- 👀 I’m interested in painting, writing music, nature, puppies.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on a planning application.
+- 👀 I’m interested in painting, writing music, nature, and puppies.
+- 🌱 I’m currently learning Discrete Mathematics I.
+- 💞️ I’m looking to join a project-based, remote-first team.
 - 📫 How to reach me: jaelyn.denise@gmail.com
 
 <!---
