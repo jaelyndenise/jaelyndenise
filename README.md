@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaelyndenise
 - 👀 I’m interested in painting, writing music, nature, and puppies.
-- 🌱 I’m currently learning Discrete Mathematics I.
+- 🌱 I’m currently learning Calculus I.
 - 💞️ I’m looking to join a project-based, remote-first team.
 - 📫 How to reach me: jaelyn.denise@gmail.com
 
